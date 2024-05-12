@@ -1,2 +1,4 @@
 build/
 *.assets/
+deploy.sh
+footer.html

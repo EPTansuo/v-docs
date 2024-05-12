@@ -14,10 +14,3 @@ Verilog HDL课程补充
    VCS仿真框架搭建
    静态时序分析与门级仿真
    DPI-C机制
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
