@@ -2,7 +2,7 @@
 
 华工微电子学院”Verilog HDL“的贺老师推荐使用VCS进行仿真，为与课程内容契合，故在此讲解其仿真框架的搭建。同时VCS相比于iverilog，仿真速度更快，支持`DPI-C`，在后面的门级仿真中也支持导入sdf标准延迟文件。
 
-为了方便仿真，在此使用了[make](https://www.gnu.org/software/make/)工具。如果你不知道make是什么，可上网查询。
+为了方便仿真，在此使用了[make](https://www.gnu.org/software/make/)工具（贺老师给出了使用shell脚本构建的仿真框架，这里的`Makefile`也是根据贺老师给出的shell脚本进行修改得到的，不过使用`make`会比单纯的shell脚本更好的完成编译和仿真工作）。如果你不知道make是什么，可上网查询。
 
 ## 1. 克隆代码
 
